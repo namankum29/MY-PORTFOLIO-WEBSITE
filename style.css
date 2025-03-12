@@ -24,7 +24,7 @@ body{
 .container{
     top: 67px;
     position: relative;
-    width: 50%;
+    width: 100%;
 }
 .nav-bar {
     position: sticky;
